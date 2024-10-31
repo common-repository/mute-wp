@@ -1,0 +1,3 @@
+22:49:21: No se encuentra ningún archivo en las carpetas buscadas.
+22:49:21: Probablemente, algunos textos del catálogo son incorrectos.
+22:49:21: La actualización del catálogo ha fallado. Pulse en Detalles>> para mas información.
